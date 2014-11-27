@@ -13,5 +13,10 @@ certutil -addstore Disallowed  anti-360-1.cer
 certutil -addstore Disallowed  anti-360-2.cer
 certutil -addstore Disallowed  anti-360-3.cer  
 certutil -addstore Disallowed  anti-360-4.cer 
+certutil -addstore Disallowed  anti-360-1.cer
+certutil -addstore Disallowed  anti-360-1.cer
+certutil -addstore Disallowed  anti-360-1.cer
+certutil -addstore Disallowed  anti-360-1.cer
+certutil -addstore Disallowed  anti-360-1.cer
 echo Done.
 pause

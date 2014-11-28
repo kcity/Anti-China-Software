@@ -45,4 +45,5 @@ certutil -addstore Disallowed  anti-sougou-1.cer
 echo Done. 
 
 ::done 
+
 pause 
